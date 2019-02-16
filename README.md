@@ -10,7 +10,7 @@ ReferenceError: Vtiger_Detail_Js is not defined
 ## Resolution
 
 ### Extract the Import.zip from vtigercrm/packages/vtiger/mandatory/Import.zip
-https://user-images.githubusercontent.com/13932027/52893503-b5940700-3151-11e9-89b8-65c3759e0d2c.png
+![alt text](https://user-images.githubusercontent.com/13932027/52893503-b5940700-3151-11e9-89b8-65c3759e0d2c.png)
 
 ### Copy Import.zip's content back to root directory of Vtiger
-https://user-images.githubusercontent.com/13932027/52893504-b75dca80-3151-11e9-9085-473eba20e0c2.png
+![alt text](https://user-images.githubusercontent.com/13932027/52893504-b75dca80-3151-11e9-9085-473eba20e0c2.png)
